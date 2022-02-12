@@ -12,7 +12,7 @@
     <img src="https://miro.medium.com/max/800/0*CBjisl422hUyLxiG.png" alt="Logo" width="100" height="80">
   </a>
 
-  <h3 align="center">MasterClass #07 by RocketSeat</h3>
+  <h3 align="center">MasterClass 07 by RocketSeat</h3>
 
   <p align="center">
     A simple application connecting the backend with the frontend to demonstrate the use of typescript
@@ -204,4 +204,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 <br><hr>
-[🔼 Back to top](#MasterClass-#07-by-RocketSeat)
+[🔼 Back to top](#MasterClass-07-by-RocketSeat)
