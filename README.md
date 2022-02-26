@@ -8,8 +8,8 @@
 <br />
 <samp>
 <p align="center">
-  <a href="https://github.com/SilasRodrigues19/TypeScriptMasterClass">
-    <img src="https://miro.medium.com/max/800/0*CBjisl422hUyLxiG.png" alt="Logo" width="100" height="100">
+  <a href="https://youtu.be/0mYq5LrQN1s">
+    <img src="https://miro.medium.com/max/800/0*CBjisl422hUyLxiG.png" alt="Logo" width="150" height="100">
   </a>
 
   <h3 align="center">MasterClass 07 by RocketSeat</h3>
@@ -17,7 +17,7 @@
   <p align="center">
     A simple application connecting the backend with the frontend to demonstrate the use of typescript
     <br />
-    <a href="#">Demo Unavailable</a>
+    <a href="https://youtu.be/0mYq5LrQN1s">Watch the tutorial</a>
     <a href="https://github.com/SilasRodrigues19/TypeScriptMasterClass/issues">Report Bug</a>
   </p>
 </p>
